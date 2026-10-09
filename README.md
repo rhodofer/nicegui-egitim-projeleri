@@ -28,6 +28,19 @@ Aşağıda serideki tüm derslerin kod dosyaları, konuları, banner önizlemele
 
 ---
 
+## 📟 NiceGUI & Raspberry Pi Pico W Entegre Projeleri (`NiceGUIandPiPico/`)
+
+Raspberry Pi Pico W mikrodenetleyicisi ile NiceGUI web arayüzünü entegre eden **19 farklı uçtan uca IoT ve otomasyon projesi** `NiceGUIandPiPico/` dizininde toplanmıştır:
+
+👉 **[Tüm Pico W + NiceGUI Projelerini İnceleyin (19 Proje)](./NiceGUIandPiPico/)**
+
+Her projede:
+- `main_pico.py`: Pico W MicroPython donanım ve REST API kodu
+- `app_nicegui.py`: Bilgisayar / Sunucu NiceGUI web paneli kodu (donanımsız test için simülasyon destekli)
+- `README.md`: Donanım malzeme listesi, devre bağlantıları ve adım adım çalıştırma rehberi yer almaktadır.
+
+---
+
 ## 🛠️ Kurulum ve Çalıştırma
 
 ### 1. Bağımlılıkları Yükleme
